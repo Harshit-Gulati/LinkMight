@@ -1,10 +1,10 @@
 # LinkMight
 
-**LinkMight** is a URL shortener application that converts long URLs into shorter, more manageable links. It leverages the Bit.ly API for URL shortening and is built using the MERN stack with Tailwind CSS for a modern user interface.
+**LinkMight** is a URL shortener application that converts long URLs into shorter, more manageable links. It uses the Bit.ly API for URL shortening and is built using the MERN stack with Tailwind CSS for a modern user interface.
 
 ## 🚧 Work in Progress
 
-This project is currently under development. Features and functionalities are subject to change as development progresses.
+This project is currently under development. Features and functionalities will be added in the future.
 
 ## Features
 
